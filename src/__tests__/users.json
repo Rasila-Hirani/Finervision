@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Robert",
+            "surname": "Schwartz",
+            "email": "rob23@gmail.com"
+        },
+        {
+            "id": 2,
+            "first_name": "Lucy",
+            "surname": "Ballmer",
+            "email": "lucyb56@gmail.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Anna",
+            "surname": "Smith",
+            "email": "annasmith23@gmail.com"
+        },
+        {
+            "id": 4,
+            "first_name": "Robert",
+            "surname": "Brown",
+            "email": "bobbrown432@yahoo.com"
+        },
+        {
+            "id": 5,
+            "first_name": "Roger",
+            "surname": "Bacon",
+            "email": "rogerbacon12@yahoo.com"
+        }
+    ]
+  }
